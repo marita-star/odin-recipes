@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif, "Helvetica Neue", "Luicida Grande", Arial;
+    text-align: center;
+}
+
+
+.ul-ol {
+    margin-inline: 600px;
+}
+
+.header {
+    color: coral;
+    font-weight: bold;
+    background-color: rgba(185, 185, 185, 0.178);
+}
+
+.small-header {
+    color: rgb(91, 148, 91);
+    background-color: rgba(185, 185, 185, 0.178);
+}
+
+.serve {
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,28 @@
+img {
+    width: 300px; height: auto;
+}
+
+* {
+    text-align: center;
+    font-family: sans-serif, "Helvetica Neue", "Luicida Grande", Arial;
+}
+
+.header {
+    font-size: 35px;
+}
+
+.lasagna-link {
+    color: darkorange
+}
+
+.jalapeno-link {
+    color: green;
+}
+
+.chicken-link {
+    color: rgb(182, 10, 10);
+}
+
+.food {
+    font-style: italic;
+}
