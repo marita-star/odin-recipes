@@ -3,12 +3,14 @@ img {
 }
 
 * {
-    text-align: center;
     font-family: sans-serif, "Helvetica Neue", "Luicida Grande", Arial;
+    background-color: antiquewhite;
 }
 
 .header {
     font-size: 35px;
+    border-style: solid;
+    text-align: center;
 }
 
 .lasagna-link {
@@ -25,4 +27,11 @@ img {
 
 .food {
     font-style: italic;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pictures {
+    margin-left: 20em;
 }
